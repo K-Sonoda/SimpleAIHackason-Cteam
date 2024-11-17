@@ -124,3 +124,5 @@ DB のテーブル定義の変更は以下の手順で実施します。
    docker compose down --volumes --remove-orphans
    ```
 # SimpleAIHackason-Cteam
+
+- hello world
